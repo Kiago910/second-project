@@ -1,7 +1,6 @@
 import random
 number = random.randint(-10000, 10000)
 i = number
-print(abs(i))
 char = str(i)
 m=(len(char))
 letter = m-1
